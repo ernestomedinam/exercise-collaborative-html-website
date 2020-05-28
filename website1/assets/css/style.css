@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
 .jumbotron {
  background-image: url("assets/img/bg.jpg");
@@ -10,4 +10,10 @@ body{
 }
 .h1 {
     color: blue;
+    background: #ffffff;
+}
+form {
+background-color : #F5F5F5;
+border: solid 1px #E8E8E8;
+padding: 10px;
 }
